@@ -8,16 +8,17 @@ Berikut proses menambahkan layout pada menu HTML:
 
 Pembuatan layout untuk menu about 
 Langkah Pertama :
-<!DOCTYPE html>
-<html lang="en">
-<head>
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Me</title>
     <link rel="stylesheet" href="style.css">
-</head>
-<body>
+    </head>
+    <body>
 
     <div id="container">
         <header>
@@ -30,9 +31,9 @@ Langkah Pertama :
             <a href="About.html">About Me</a>
             <a href="contact.html">Contact</a>
         </nav>
-</div>
-</body>
-</html
+    </div>
+    </body>
+    </html>
 
 >    
     <section id="about">
@@ -71,16 +72,16 @@ Langkah Pertama :
 kemudian saya membuat CSS kita gabungkan agar
 Hasilnya seperti ini :
 
-<!DOCTYPE html>
-<html lang="en">
- <head>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Layout Sederhana</title>
     <link rel="stylesheet" href="style.css">
- </head>
-  <body>
+    </head>
+    <body>
     <div id="container">
         <header>
             <h1>Layout Sederhana</h1>
@@ -93,9 +94,9 @@ Hasilnya seperti ini :
             <a href="contact.html">Contact</a>
         </nav>
 
- </div>
- </body>
- </html>
+    </div>
+    </body>
+    </html>
        
         <div class="contact-section">
             <div class="inner-width">
@@ -127,16 +128,16 @@ Hasilnya seperti ini :
 Selanjutnya menambahkan layout sederhana
 Untuk menu Contact :
 
-<!DOCTYPE html>
-<html lang="en">
- <head>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Layout Sederhana</title>
     <link rel="stylesheet" href="style.css">
- </head>
-  <body>
+    </head>
+    <body>
     <div id="container">
         <header>
             <h1>Layout Sederhana</h1>
