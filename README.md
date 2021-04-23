@@ -3,7 +3,9 @@
 
 ### Menambahkan layout About dan Contact
 Berikut proses menambahkan layout pada menu HTML:
+
 ![Gambar](screenshot/free.png)
+
 Pembuatan layout untuk menu about 
 Langkah Pertama :
 <!DOCTYPE html>
@@ -68,6 +70,7 @@ Langkah Pertama :
 </html>
 
 ![Gambar](screenshot/cree.png)
+
 kemudian saya membuat CSS kita gabungkan agar
 Hasilnya seperti ini :
 <!DOCTYPE html> 
