@@ -30,9 +30,7 @@ Langkah Pertama :
             <a href="About.html">About Me</a>
             <a href="contact.html">Contact</a>
         </nav>
-</div>
-</body>
-</html>
+    
     <section id="about">
         <h1>SAYA EDWIN FIRMANSYAH</h1>
         <h2>MAHASISWA<span> UNIVERSITAS PELITA BANGSA</span> </h2>
@@ -62,7 +60,14 @@ Langkah Pertama :
             </tr>
         </table>
     </section>
+  </div><br><br>
+
     
+    <footer>
+        <p><a>Copyright&copy 2019 | Design By: Edwin firmansyah</a>.</p>
+    </footer>
+</body>
+</html>
 
 ![Gambar](screenshot/cree.png)
 
